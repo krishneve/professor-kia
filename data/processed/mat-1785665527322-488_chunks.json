@@ -1,0 +1,11 @@
+[
+  {
+    "documentTitle": "AI_Test.txt",
+    "pageNumber": 1,
+    "heading": "AI_Test",
+    "chunkContent": "Chapter 1: Neural Networks. A neural network is a computational model inspired by biological neurons consisting of input, hidden, and output layers. Weights are adjusted using backpropagation and gradient descent. Chapter 2: Transformers. The transformer architecture uses self-attention mechanisms allowing models to weigh token importance. BERT and GPT are prominent examples. Chapter 3: Reinforcement Learning. An agent learns by interacting with an environment, receiving rewards or penalties. Q-learning and policy gradients are common algorithms.",
+    "chunkIndex": 0,
+    "subjectId": "sbj-1",
+    "materialId": "mat-1785665527322-488"
+  }
+]

@@ -1,0 +1,6 @@
+{
+  "name": "KIA — Knowledge Intelligence Assessor",
+  "description": "Autonomous AI oral examination and knowledge intelligence assessment platform powered by Gemma.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

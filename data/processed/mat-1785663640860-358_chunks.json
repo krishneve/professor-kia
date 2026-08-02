@@ -1,0 +1,65 @@
+[
+  {
+    "documentTitle": "AI_Fundamentals.txt",
+    "pageNumber": 1,
+    "heading": "Chapter 1: Introduction to Artificial Intelligence",
+    "chunkContent": "Chapter 1: Introduction to Artificial Intelligence",
+    "chunkIndex": 0,
+    "subjectId": "sbj-1",
+    "materialId": "mat-1785663640860-358"
+  },
+  {
+    "documentTitle": "AI_Fundamentals.txt",
+    "pageNumber": 1,
+    "heading": "Chapter 1: Introduction to Artificial Intelligence",
+    "chunkContent": "Artificial Intelligence (AI) is the simulation of human intelligence in machines. AI systems are designed to perform tasks that typically require human intelligence such as learning, reasoning, problem-solving, perception, and language understanding.",
+    "chunkIndex": 1,
+    "subjectId": "sbj-1",
+    "materialId": "mat-1785663640860-358"
+  },
+  {
+    "documentTitle": "AI_Fundamentals.txt",
+    "pageNumber": 1,
+    "heading": "Chapter 2: Machine Learning",
+    "chunkContent": "Machine learning is a subset of AI that enables systems to learn from data without being explicitly programmed. There are three main types: supervised learning, unsupervised learning, and reinforcement learning. In supervised learning, models are trained on labeled datasets to make predictions.",
+    "chunkIndex": 2,
+    "subjectId": "sbj-1",
+    "materialId": "mat-1785663640860-358"
+  },
+  {
+    "documentTitle": "AI_Fundamentals.txt",
+    "pageNumber": 2,
+    "heading": "Chapter 3: Neural Networks",
+    "chunkContent": "Neural networks are computational models inspired by the human brain. They consist of layers of interconnected nodes called neurons. Deep learning uses neural networks with many hidden layers to learn complex patterns. Backpropagation is the algorithm used to train neural networks by adjusting weights to minimize the loss function.",
+    "chunkIndex": 3,
+    "subjectId": "sbj-1",
+    "materialId": "mat-1785663640860-358"
+  },
+  {
+    "documentTitle": "AI_Fundamentals.txt",
+    "pageNumber": 2,
+    "heading": "Chapter 4: Natural Language Processing",
+    "chunkContent": "Chapter 4: Natural Language Processing",
+    "chunkIndex": 4,
+    "subjectId": "sbj-1",
+    "materialId": "mat-1785663640860-358"
+  },
+  {
+    "documentTitle": "AI_Fundamentals.txt",
+    "pageNumber": 2,
+    "heading": "Chapter 4: Natural Language Processing",
+    "chunkContent": "Natural Language Processing (NLP) enables computers to understand and generate human language. Key NLP tasks include tokenization, named entity recognition, sentiment analysis, and machine translation. Transformer models like BERT and GPT have revolutionized NLP by using attention mechanisms to understand context.",
+    "chunkIndex": 5,
+    "subjectId": "sbj-1",
+    "materialId": "mat-1785663640860-358"
+  },
+  {
+    "documentTitle": "AI_Fundamentals.txt",
+    "pageNumber": 3,
+    "heading": "Chapter 5: Ethical Considerations",
+    "chunkContent": "AI ethics addresses concerns about fairness, accountability, transparency, and privacy. Bias in AI systems can arise from biased training data. Explainability refers to the ability to understand how an AI system makes decisions. Responsible AI development requires diverse teams and inclusive datasets.",
+    "chunkIndex": 6,
+    "subjectId": "sbj-1",
+    "materialId": "mat-1785663640860-358"
+  }
+]
